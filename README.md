@@ -27,7 +27,7 @@ Las clases y la cantidad de imágenes por clase son las siguientes:
 - Clase 9: Galaxias de canto con bulbo (1,873 imágenes)
 
 ### Objetivo
-El obejtivo será entrenar distintos modelos de clasificación de las imágenes.
+El objetivo será entrenar distintos modelos de clasificación de las imágenes.
 
 ### Contenido
 En contenido del presente repositorio es:
