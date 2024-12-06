@@ -28,3 +28,8 @@ Las clases y la cantidad de imágenes por clase son las siguientes:
 
 ### Objetivo
 El obejtivo será entrenar distintos modelos de clasificación de las imágenes.
+
+### Contenido
+En contenido del presente repositorio es:
+- Presentación de los experimentos realizados.
+- Notebooks de las arquitecturas aplicadas, cada una en una carpeta identificada con su nombre.
